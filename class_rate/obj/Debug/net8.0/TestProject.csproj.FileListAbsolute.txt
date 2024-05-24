@@ -1,0 +1,14 @@
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\Owner\Music\Desktop\試爆區\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
